@@ -1,1 +1,1 @@
-The Riesz Representation Theoremover finite-dimensional inner product spaces is a vital result that allows for the definition of the adjoint. This very brief paper aims to show a very simple method of proving the Theorem.
+The Riesz Representation Theorem for finite-dimensional inner product spaces is a vital result that allows for the definition of the adjoint. This very brief paper aims to show a very simple method of proving the Theorem.
